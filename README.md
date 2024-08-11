@@ -20,7 +20,7 @@ This repository contains a chatbot for FAST School of Computing built using web 
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/MuhammadAhmadBajwa/FAST-NUCES-Chatbot.git
+   git clone https://github.com/MuhammadAhmadBajwa/FAST-NUCES-Chatbot.git
    ```
 2. **Install dependencies:**
    ```bash

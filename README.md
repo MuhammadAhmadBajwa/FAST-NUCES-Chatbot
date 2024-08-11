@@ -26,9 +26,12 @@ This repository contains a chatbot for FAST School of Computing built using web 
    ```bash
    pip install -r requirements.txt
    ```
-2. **GET your API:**
+3. **GET your API:**
+   
    Get your voyageai API from https://dash.voyageai.com/ and replace it with existing API KEY app.py #line 9
-   Get your gemini API from https://aistudio.google.com/app/apikey and replace it with existing API KEY app.py #line 12 
+   
+   Get your gemini API from https://aistudio.google.com/app/apikey and replace it with existing API KEY app.py #line 12
+   
    Signup on these websites , then create an API Key and paste the API KEYS in the app.py.
    
 4. **Run the chatbot:**
